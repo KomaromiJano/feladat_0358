@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "alma",
+      "description": "Gold alma 1kg",
+      "price": 200,
+      "unit": "kg"
+    }
+  ]
+}
