@@ -1,0 +1,9 @@
+{
+    "server": [
+        "src",
+        "node_modules/axios/dist/",
+        "node_modules/",
+        "node_modules/bootstrap/dist/"
+    ],
+    "port": 3000
+}

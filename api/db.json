@@ -2,9 +2,23 @@
   "products": [
     {
       "id": 1,
-      "name": "alma",
+      "name": "Alma",
       "description": "Gold alma 1kg",
       "price": 200,
+      "unit": "kg"
+    },
+    {
+      "id": 1,
+      "name": "Körte",
+      "description": "Vilmos körte 1kg",
+      "price": 1200,
+      "unit": "kg"
+    },
+    {
+      "id": 1,
+      "name": "Szilva",
+      "description": "Szatmári szilva 1kg",
+      "price": 999,
       "unit": "kg"
     }
   ]
